@@ -340,7 +340,7 @@ header .links ul li:not(:last-child) a {
 .Services::after {
   content: "";
   position: absolute;
-  background-image: url(/images/layered-waves.svg);
+  background-image: url(../images/layered-waves.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
